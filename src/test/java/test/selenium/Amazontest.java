@@ -3,7 +3,7 @@ package test.selenium;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class NewTest {
+public class Amazontest {
   @Test
   public void f() {
 	  
@@ -11,6 +11,7 @@ public class NewTest {
 		driver.get("https://www.amazon.in/");
 		
 		System.out.println(driver.getTitle());
+
 
   }
 }

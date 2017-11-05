@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="test.selenium.Amazontest"/>
+      <class name="test.selenium.Google"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
